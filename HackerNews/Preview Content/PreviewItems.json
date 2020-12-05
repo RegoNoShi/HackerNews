@@ -1,0 +1,59 @@
+[
+    {
+        "by" : "theafh",
+        "descendants" : 353,
+        "id" : 24777268,
+        "kids" : [ 24778001, 24777957, 24778210, 24778026, 24779203, 24778283, 24780437, 24779634, 24778385, 24779048, 24777921, 24779934, 24779512, 24781384, 24782672, 24779050, 24779975, 24784656, 24780574, 24785350, 24778706, 24778457, 24807825, 24784794, 24780008, 24795529, 24778735, 24779757, 24785141, 24780571, 24788825, 24795480, 24779575, 24777996, 24778254, 24778341, 24781183, 24777945, 24777875, 24787940, 24779653, 24779393, 24785643, 24780180, 24779270, 24800076, 24782796, 24779061, 24780626, 24787912, 24778700, 24779074, 24778439, 24777831, 24779329, 24778009 ],
+        "score" : 1235,
+        "time" : 1602687710,
+        "title" : "Room-Temperature Superconductivity Achieved for the First Time",
+        "type" : "story",
+        "url" : "https://www.quantamagazine.org/physicists-discover-first-room-temperature-superconductor-20201014/"
+    },
+    {
+        "by" : "dhouston",
+        "descendants" : 71,
+        "id" : 8863,
+        "kids" : [ 9224, 8917, 8952, 8958, 8884, 8887, 8869, 8940, 8908, 9005, 8873, 9671, 9067, 9055, 8865, 8881, 8872, 8955, 10403, 8903, 8928, 9125, 8998, 8901, 8902, 8907, 8894, 8870, 8878, 8980, 8934, 8943, 8876 ],
+        "score" : 104,
+        "time" : 1175714200,
+        "title" : "My YC app: Dropbox - Throw away your USB drive",
+        "type" : "story",
+        "url" : "http://www.getdropbox.com/u/2/screencast.html"
+    },
+    {
+        "by" : "theyeti",
+        "descendants" : 16,
+        "id" : 9129911,
+        "kids" : [ 9129990, 9130206, 9130376, 9130273, 9131289, 9131728, 9137773, 9132476 ],
+        "score" : 78,
+        "text" : "",
+        "time" : 1425261906,
+        "title" : "Venture Capital in the 1980s",
+        "type" : "story",
+        "url" : "http://reactionwheel.net/2015/01/80s-vc.html"
+    },
+    {
+        "by" : "softdev12",
+        "descendants" : 41,
+        "id" : 9129199,
+        "kids" : [ 9129206, 9130143, 9129611, 9129735, 9129751, 9129736, 9129681, 9130091, 9130666, 9129722, 9129803 ],
+        "score" : 133,
+        "text" : "",
+        "time" : 1425249192,
+        "title" : "BIT Poised to Become Publicly Traded Bitcoin Fund",
+        "type" : "story",
+        "url" : "http://www.wsj.com/articles/bitcoin-investment-trust-gets-finras-ok-to-become-public-bitcoin-fund-1425242094"
+    },
+    {
+        "by" : "dcre",
+        "descendants" : 303,
+        "id" : 9127761,
+        "kids" : [ 9128362, 9128149, 9128434, 9128171, 9128012, 9129372, 9128081, 9128252, 9129380, 9128544, 9128740, 9128161, 9128083, 9128599, 9128819, 9128510, 9130092, 9128336, 9128027, 9131340, 9128924, 9129138, 9129717, 9129858, 9128919, 9129000, 9130774, 9131418, 9129622, 9129599 ],
+        "score" : 396,
+        "time" : 1425228700,
+        "title" : "Notes on watching \"Aliens\" for the first time again, with a bunch of kids",
+        "type" : "story",
+        "url" : "http://www.rogerebert.com/mzs/watching-aliens-for-the-first-time-again-with-a-bunch-of-kids"
+    }
+]
